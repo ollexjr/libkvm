@@ -1,0 +1,6 @@
+#ifndef H_NETWINDOW_BASE_H
+#define H_NETWINDOW_BASE_H
+
+
+
+#endif // !H_NETWINDOW_BASE_H
